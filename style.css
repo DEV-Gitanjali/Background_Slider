@@ -55,7 +55,7 @@ body::before{
   }
   
   .slide.active {
-    opacity: 1;
+    opacity: 2;
   }
 
 /*  this method for two arrow */
